@@ -1,0 +1,8 @@
+export { default as LogIn } from './LogIn'
+export { default as SignUp } from './SignUp'
+export { default as Home } from './Home'
+export { default as Player } from './Player'
+export { default as Movie } from './Movie'
+export { default as TVShow } from './TVShow'
+export { default as MovieDetail } from './MovieDetail'
+export { default as UserSaved } from './UserSaved'
